@@ -3,7 +3,7 @@ HIMB Summer Course - Remote Sensing Independent Project
 Edson A. Vieira
 2019-05-31
 
-## Measuring a sand patch using multiple image tools
+## Measuring a sand patch using multiple image tools TEST
 
 ## Summary
 
