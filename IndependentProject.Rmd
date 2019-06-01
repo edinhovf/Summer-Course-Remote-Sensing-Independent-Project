@@ -8,7 +8,7 @@ output:
   #html_document
 ---
 
-## Measuring a sand patch using multiple image tools TEST
+## Measuring a sand patch using multiple image tools
 
 ````{r, echo=F}
 ## R Markdown information 
